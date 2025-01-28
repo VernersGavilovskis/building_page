@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.68 31.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #01b8eb;
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+    </style>
+  </defs>
+  <g id="objekti">
+    <g>
+      <path class="cls-1" d="M21.04,1.42c7.85,0,14.22,6.37,14.22,14.22s-6.37,14.22-14.22,14.22"/>
+      <line class="cls-1" y1="15.64" x2="23.04" y2="15.64"/>
+      <line class="cls-1" x1="15.01" y1="7.45" x2="24.19" y2="16.63"/>
+      <line class="cls-1" x1="15.01" y1="23.83" x2="24.19" y2="14.65"/>
+    </g>
+  </g>
+</svg>
