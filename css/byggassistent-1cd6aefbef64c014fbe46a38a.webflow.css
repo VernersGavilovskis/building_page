@@ -1,5 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://db.onlinewebfonts.com/c/bf9f5d50c1b928ff21436517a1a95ad9?family=Proxima+Nova');
+
+@font-face {
+  font-family: 'ProximaNovaBlackIt';
+  src: url('../fonts/proximanova_blackit.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ProximaNovaBlack';
+  src: url('../fonts/proximanova_black.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ProximaNovaExtraBold';
+  src: url('../fonts/proximanova_extrabold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ProximaNovaBoldIt';
+  src: url('../fonts/proximanova_boldit.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ProximaNovaBold';
+  src: url('../fonts/proximanova_bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ProximaNovaLight';
+  src: url('../fonts/proximanova_light.otf') format('opentype');
+}
+
 .w-layout-grid {
   grid-row-gap: 16px;
   grid-column-gap: 16px;
